@@ -17,7 +17,7 @@ title: Aleasha and John's Wedding
 email: aleasha.harris86@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Aleasha and John's Wedding
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aleashaandjohn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johndagostino
 github_username:  johndagostino
