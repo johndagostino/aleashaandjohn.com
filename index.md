@@ -1,6 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+<h3 class="fancy">3rd of March 2018</h3>
+<h3 class="fancy">Circa 1876</h3>
