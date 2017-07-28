@@ -5,13 +5,13 @@ layout: default
 <h3 class="fancy">3rd of March 2018</h3>
 <h3 class="fancy">Circa 1876, The Hunter Valley</h3>
 
-<h4 class="fancy">Events</h3>
+<h4 class="fancy">Events</h4>
 
 * Friday - Dinner 7:30pm
 * Saturday Afternoon - Wedding Ceremony, Cocktail Hour and Reception at Circa 1876
 * Sunday - BBQ Lunch
 
-<h4 class="fancy">Accommodation</h3>
+<h4 class="fancy">Accommodation</h4>
 
 * Convent Hunter Valley 
 
