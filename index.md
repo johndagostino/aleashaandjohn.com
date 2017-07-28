@@ -9,6 +9,13 @@ layout: default
 </iframe>
 
 
+<h3 class="fancy">Events</h3>
+
+* Friday - Dinner 7:30pm
+* Saturday Afternoon - Wedding Ceremony, Cocktail Hour and Reception at Circa 1876
+* Sunday - BBQ Lunch
+
 <h3 class="fancy">Accommodation</h3>
 
 * Convent Hunter Valley 
+
