@@ -7,3 +7,8 @@ layout: default
 
 <iframe style="margin: 0 auto; display: block; border: none; height: 350px; width: 80%;" src="//www.google.com/maps/embed/v1/place?q=64%20Halls%20Rd,%20Pokolbin%20NSW%202320&zoom=17&key=AIzaSyCr0Q1Dw3aEjbs_ThsrQwZ4RRHJCrZbG1w">
 </iframe>
+
+
+<h3 class="fancy">Accommodation</h3>
+
+* Convent Hunter Valley 
